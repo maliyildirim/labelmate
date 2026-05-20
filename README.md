@@ -1,11 +1,21 @@
 <p align="center">
-  <img src="docs/labelmate_logo.png" alt="LabelMate Logo" width="220">
+  <img src="docs/labelmate_logo.png" alt="LabelMate Logo" width="320">
 </p>
-
 
 <p align="center">
-  Your local AI companion for YOLO labeling. Fast. Offline. Yours.
+  <strong>Your local AI companion for YOLO labeling.</strong><br>
+  Fast. Offline. Yours.
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.9%2B-blue?logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/GUI-PySide6-green" alt="PySide6">
+  <img src="https://img.shields.io/badge/License-MIT-yellow" alt="License">
+</p>
+
+---
+
+LabelMate is a desktop annotation tool that combines YOLO inference with an interactive canvas, letting you build YOLO training datasets without any cloud dependency.
 
 > Your local AI companion for YOLO labeling. Fast. Offline. Yours.
 

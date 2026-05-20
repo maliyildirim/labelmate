@@ -7,7 +7,6 @@
 <p align="center">
   Your local AI companion for YOLO labeling. Fast. Offline. Yours.
 </p>
-# LabelMate
 
 > Your local AI companion for YOLO labeling. Fast. Offline. Yours.
 

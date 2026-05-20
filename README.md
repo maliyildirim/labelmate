@@ -41,6 +41,16 @@ After that, you can launch the app from the **LabelMate** desktop icon.
 
 If Windows SmartScreen or PowerShell asks for confirmation, allow the script only if you downloaded it from the official repository.
 
+## Fast Windows Setup
+
+1. Click the green **Code** button on this page.
+2. Select **Download ZIP**.
+3. Extract the ZIP file.
+4. Open the extracted `labelmate` folder.
+5. Double-click `install_windows.bat`.
+
+The installer will create a desktop shortcut named **LabelMate**. After setup, you can launch the app from that desktop icon.
+
 ## Manual Installation
 
 ```bash

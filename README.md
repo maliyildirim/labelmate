@@ -27,8 +27,7 @@ LabelMate is a desktop annotation tool that combines YOLO inference with an inte
 
 ---
 
-## GIF
-
+## See It in Action
 
 ![LabelMate gif](docs/record.gif)
 

@@ -2,7 +2,6 @@
   <img src="docs/labelmate_logo.png" alt="LabelMate Logo" width="220">
 </p>
 
-<h1 align="center">LabelMate</h1>
 
 <p align="center">
   Your local AI companion for YOLO labeling. Fast. Offline. Yours.
